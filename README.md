@@ -30,13 +30,13 @@ hiBus 为客户端提供了 Unix Domain Socket 和 WebSocket 两种连接方式�
 - 如学生参加了多个项目，参赛学生选择一个自己参加的项目参与评奖
 - 请遵循“2021全国大学生操作系统比赛”的章程和技术方案要求
 
-## 项目导师
+### 项目导师
 
 魏永明：
 - GitHub 账号：<https://github.com/VincentWei>
 - 邮箱：<hybridos@fmsoft.cn>
 
-## 难度
+### 难度
 
 中等
 
